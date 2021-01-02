@@ -1,0 +1,16 @@
+{
+    "name": "Play Learn Grow Together",
+    "short_name": "@play-learn-grow-together",
+    "start_url": "/?utm_source=homescreen",
+    "icons": [
+      {
+        "src": "/assets/favicons/logo-144.jpg",
+        "sizes": "144x144",
+        "type": "image/jpg"
+      }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#FFFFFF",
+    "display": "fullscreen",
+    "orientation": "portrait"
+  }
