@@ -1,0 +1,20 @@
+{
+  "/docs/": [
+    {
+      "title": "Documents",
+      "path": "/docs/",
+      "collapsable": false,
+      "sidebarDepth": 3,
+      "children": []
+    }
+  ],
+  "/logs/": [
+    {
+      "title": "Logs",
+      "path": "/logs/",
+      "collapsable": false,
+      "sidebarDepth": 3,
+      "children": []
+    }
+  ]
+}

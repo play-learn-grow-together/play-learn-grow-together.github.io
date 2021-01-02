@@ -1,0 +1,7 @@
+[
+    { "text": "Home", "link": "/" },
+    { "text": "About", "link": "/about/" },
+    { "text": "Logs", "link": "/logs/" },
+    { "text": "Documents", "link": "/docs/" },
+    { "text": "GitHub", "link": "https://github.com/play-learn-grow-together" }
+]
